@@ -1,4 +1,4 @@
-name: 惠头条
+name: 惠头条0
 
 on:
   workflow_dispatch:
